@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lAshishl
 - 👀 I’m interested in khai tha xaina
 - 🌱 I’m currently learning Swift, Blender.
-- 💞️ I’m looking to collaborate on nothing. Solo player
+- 💞️ I’m looking to collaborate on nothing. Solo player Biach
 - 📫 How to reach me : ashishthapawe@gmail.com
 
 <!---
